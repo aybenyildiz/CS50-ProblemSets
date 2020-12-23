@@ -1,8 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
-int main(void)
-{
+int main(void){
     while (true){
         
         int i = get_int("Enter a number: ");
